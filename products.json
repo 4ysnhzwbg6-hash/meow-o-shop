@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "อาหารแมวเกรดพรีเมียม รสแซลมอน",
+    "category": "food",
+    "price": 450,
+    "rating": 5,
+    "image": "images/salmon-food.png",
+    "description": "โปรตีนคุณภาพสูงจากแซลมอนแท้ ช่วยบำรุงขนและระบบย่อยอาหาร"
+  },
+  {
+    "id": 2,
+    "name": "ขนมแมวเลียรสทูน่าแพ็คสุดคุ้ม",
+    "category": "food",
+    "price": 150,
+    "rating": 5,
+    "image": "images/tuna-treat.png",
+    "description": "ขนมแมวเลียรสทูน่าแท้ อร่อยถูกใจน้องแมว แพ็คใหญ่สุดคุ้ม"
+  },
+  {
+    "id": 3,
+    "name": "คอนโดแมวไม้แท้ 5 ชั้น พร้อมเปลนอน",
+    "category": "toy",
+    "price": 1290,
+    "rating": 5,
+    "image": "images/cat-tree.png",
+    "description": "ไม้แท้แข็งแรงทนทาน สูง 170 ซม. พร้อมเปลนอนนุ่มและเสาลับเล็บ"
+  },
+  {
+    "id": 4,
+    "name": "ที่ฝนเล็บแมวทรงบ้านน่ารัก",
+    "category": "toy",
+    "price": 350,
+    "rating": 5,
+    "image": "images/scratcher.png",
+    "description": "ทั้งเล่น ฝนเล็บ และนอนในหลังเดียว ทำจากกระดาษลูกฟูกคุณภาพสูง"
+  }
+]
